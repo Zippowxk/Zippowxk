@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning anything interesting
 - 
 
-<img src="https://github-readme-stats.vercel.app/api?username=haoziqaq&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zippowxk&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats"/>
