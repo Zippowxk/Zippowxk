@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [Vue keep-alive plugin](https://github.com/Zippowxk/vue-router-keep-alive-helper) and [Vue Mobile Devtools](https://github.com/Zippowxk/vue-vconsole-devtools)
+- 🌱 I’m currently learning anything interesting
+- 
+
+<img src="https://github-readme-stats.vercel.app/api?username=haoziqaq&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats"/>
