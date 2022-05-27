@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [Vue keep-alive plugin](https://github.com/Zippowxk/vue-router-keep-alive-helper) and [Vue Mobile Devtools](https://github.com/Zippowxk/vue-vconsole-devtools)
+- 🔭 I’m currently working on [Vue2.x keep-alive plugin](https://github.com/Zippowxk/vue-router-keep-alive-helper), [Vue3.x keep-alive Component](https://github.com/Zippowxk/stack-keep-alive) and [Vue Mobile Devtools](https://github.com/Zippowxk/vue-vconsole-devtools)
 - 🌱 I’m currently learning anything interesting
 - 
 
